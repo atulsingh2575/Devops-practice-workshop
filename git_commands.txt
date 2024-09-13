@@ -1,0 +1,8 @@
+git status
+clear
+git add.
+git commit -m "added the file"
+clear
+rm testing.py
+git status
+git restore testing.py
